@@ -1,0 +1,32 @@
+{
+  "name": "fs-techdegree-project8-using-gulp-to-build-a-frontend-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newKeating/FS-techdegree-project8-Using-Gulp-to-Build-a-Frontend-Website.git"
+  },
+  "author": "HanJoon Peter Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newKeating/FS-techdegree-project8-Using-Gulp-to-Build-a-Frontend-Website/issues"
+  },
+  "homepage": "https://github.com/newKeating/FS-techdegree-project8-Using-Gulp-to-Build-a-Frontend-Website#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1",
+    "gulp-sequence": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0"
+  }
+}
