@@ -1,7 +1,7 @@
 # TeamTreehouse FullStack JavaScript Techdegree Project8
 # Using Gulp to Build a Frontend-Website
 
-![alt text](https://github.com/newKeating/FS-techdegree-project7-Build-a-Twitter-Interface/blob/master/Project7-pass-confirmed.png)
+![alt text](https://github.com/newKeating/FS-techdegree-project8-Using-Gulp-to-Build-a-Frontend-Website/blob/master/Project8-Pass.png)
 
 ## About this Project
 
